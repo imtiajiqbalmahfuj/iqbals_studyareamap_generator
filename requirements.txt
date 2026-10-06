@@ -1,0 +1,12 @@
+streamlit
+numpy
+geopandas
+matplotlib
+shapely
+contextily
+osmnx
+earthengine-api
+geemap
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
